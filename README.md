@@ -26,6 +26,3 @@ Theoretical Basis
 - Yield Criterion: Von Mises stress formulation.
 - Contact: Spring-damper penalty method for interface dynamics.
 
-System Requirements
-- Preferred Minimum 8GB RAM.
-- Results are saved to 'ballistic_results.mat'.
